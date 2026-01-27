@@ -19,7 +19,7 @@ You need Golang installed.
    ```
    go run .
    ```
-5. Build it for your device and run it with `chmod +x ./binarynamehere` or double clicking it.
+5. Build it for your device and run it with `chmod +x binarynamehere && ./binarynamehere` or double clicking it.
    ```
    go build . -o nameforyourbinaryhere
    ```
