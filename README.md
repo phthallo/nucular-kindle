@@ -1,6 +1,6 @@
 ## nucular-kindle
 
-This is an updated example of a Kindle app made with a Nucular, a Golang framework. This works using a modified version of Shiny ([kindle-shiny](https://github.com/efskap/shiny-kindle)). Everything in this repo is derived from efskap's work - big shoutout!
+This is an updated example of a Kindle app made with a Nucular, a Golang framework. This works using a modified version of Shiny ([shiny-kindle](https://github.com/efskap/shiny-kindle)). Everything in this repo is derived from efskap's work - big shoutout!
 
 ## Development
 
