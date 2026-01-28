@@ -27,3 +27,11 @@ You need Golang installed.
    ```
    GOARCH=arm GOARM=5 go build -o nameforyourbinaryhere_kindle
    ```
+
+## Running on the Kindle
+
+1. Jailbreak your Kindle according to the recommended jailbreak on [kindlemodding](https://kindlemodding.org/kindle-models.html)
+2. Install [kterm](https://www.fabiszewski.net/kindle-terminal/). 
+3. Plug in your Kindle and transfer the Kindle binary over.
+4. Launch kterm with KUAL, which should be installed if the jailbreak was fully completed.
+5. Navigate to the directory you put the binary in (the default working directory when you open kterm is kterm's location in the extensions folder), make the binary executable and launch it (`chmod +x binaryname_kindle && ./binaryname-kindle`)
